@@ -14,3 +14,8 @@
  * For detailed information regarding to the licensing of
  * this software, please review the license.txt
 */
+
+add_action('wp_enqueue_scripts', function(){
+    wp_enqueue_script('bundle', plugin_dir_url(__FILE__) . 'assets/build/bundle.js', array(), '1.0.0', true);
+    wp_enqueue_style('bundle', plugin_dir_url(__FILE__) . 'assets/build/bundle.css');
+});

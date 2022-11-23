@@ -1,4 +1,4 @@
-[![Watch the video](https://img.youtube.com/vi/LbQhnVtHYJc/default.jpg)](https://www.youtube.com/watch?v=LbQhnVtHYJc)
+[![Watch the video](https://img.youtube.com/vi/LbQhnVtHYJc/maxresdefault.jpg)](https://www.youtube.com/watch?v=LbQhnVtHYJc)
 
 # WordPress Plugin BoilerPlate with Svelte
 
